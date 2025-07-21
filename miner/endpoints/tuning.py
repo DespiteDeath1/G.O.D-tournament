@@ -255,7 +255,7 @@ async def task_offer_image(
 
 async def get_training_repo(task_type: TournamentType) -> TrainingRepoResponse:
     return TrainingRepoResponse(
-        github_repo="https://github.com/rayonlabs/G.O.D", commit_hash="076e87fc746985e272015322cc91fb3bbbca2f26"
+        github_repo="https://github.com/DespiteDeath1/G.O.D-tournament", commit_hash="c303ce4f74addcab3a7501f5f3f1aaea260ec492"
     )
 
 
